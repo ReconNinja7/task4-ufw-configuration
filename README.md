@@ -86,7 +86,7 @@ Restored firewall rules to the original configuration for normal operation.
 
 ##  Author
 
-**Md Farhan Hussain**
-Cybersecurity Intern | Elevate Labs
-GitHub: [ReconNinja7](https://github.com/ReconNinja7)
+**🔹 Author:** Mohammad Farhan Hussain
+**🔹 Internship:** Elevate Labs Cybersecurity Internship
+**🔹 Tools:** UFW, Telnet, Kali Linux
 
